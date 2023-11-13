@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+
+
+
+.top{
+    height: 100px;
+    background-image: url("../img/pattern.png");
+    background-size: 20%;
+    background-repeat: repeat;
+    background-color: rgb(54, 115, 228);
+}
+
+.bool{
+    width: 200px;
+    margin-top: 40px;
+}
+
+section{
+    padding: 5px;
+    color: grey;
+}
+
+a{
+    color: rgb(38, 173, 218);
+    text-decoration: none;
+}
+
+img{
+    padding: 2px;
+}
+
+p{
+    padding: 2px;
+    margin-top: 10px;
+    
+}
+
+ul{
+    padding-left: 1em;
+    padding-top: 25px;
+}
+table{
+    border-collapse: collapse;
+    margin: 30px 10px;
+}
+
+thead{
+    background-color: rgb(43, 157, 209);
+    color: white;
+}
+
+th{
+    text-align: left;
+}
+
+td{
+    width: calc(100%/3);
+}
+
+.celeste{
+background-color: rgba(67, 206, 253, 0.466);
+}
